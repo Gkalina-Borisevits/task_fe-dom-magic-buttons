@@ -8,6 +8,16 @@
   padding: 15px;
 }
 
+.btn-2 {
+  background-color: #f7c815;
+  color: white;
+  font-size: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  border: none;
+  padding: 15px;
+}
+
 .second-btn {
   font-size: 20px;
   margin: 20px;
